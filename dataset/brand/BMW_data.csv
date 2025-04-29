@@ -1,0 +1,5 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'BMW','Serie3','316',1766,66,140.0,5,990,5500,12.2,175,0,21.74755468
+'BMW','Serie5','5181',1766,77,145.0,5,1140,5800,12.6,175,0,21.4651189
+'BMW','Serie7','7281',2788,135,240.0,5,1510,5800,9.5,201,0,18.17765551
+'BMW','Serie5','5281',2788,135,240.0,5,1300,5800,8.4,215,1,15.64963719

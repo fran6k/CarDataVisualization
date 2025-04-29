@@ -1,0 +1,3 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Mitsubishi','Lancer','Break 18GLD',1796,60,108.0,5,1025,4500,,145,0,24.87257194
+'Mitsubishi','Colt','1500GLX',1468,55,118.0,5,820,5500,12.7,160,0,20.63973773

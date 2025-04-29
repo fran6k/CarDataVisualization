@@ -1,0 +1,5 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Toyota','Starlet','1000L',999,40,75.0,5,780,6000,,150,0,24.51870232
+'Toyota','Cressida','StationLTD',2466,63,188.0,5,1370,5600,14.2,155,0,34.27281552
+'Toyota','Tercel','Station4WD',1452,52,108.0,5,1000,5600,15.5,155,0,26.54971161
+'Toyota','Corolladan','Stop',1295,55,107.0,5,965,6000,14.1,160,0,23.53984308

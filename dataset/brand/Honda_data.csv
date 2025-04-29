@@ -1,0 +1,3 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Honda','Civic','1.3DX',1342,52,105.0,5,777,6000,11.5,157,0,20.22680566
+'Honda','Accord','1.6LX',1588,65,122.0,5,1028,6000,11.9,176,0,22.32872269

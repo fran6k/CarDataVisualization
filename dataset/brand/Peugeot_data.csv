@@ -1,0 +1,6 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Peugeot','205','XE1.0',954,33,69.0,5,785,6000,18.8,134,0,29.56747975
+'Peugeot','305','GL',1472,54,116.0,5,995,6000,13.2,156,0,25.52570648
+'Peugeot','205','GT',1360,59,110.0,5,820,5800,11.6,170,0,18.87635192
+'Peugeot','5O5Berlines','GT1',2165,90,189.0,5,1280,5750,10,183,0,21.69718705
+'Peugeot','205','GTI',1580,76,132.0,5,855,6250,9.5,190,1,15.86310839

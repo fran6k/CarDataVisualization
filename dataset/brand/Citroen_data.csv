@@ -1,0 +1,6 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Citroen','Visa','Baseclub',652,25,49.0,5,755,5500,26.2,125,0,34.13031837
+'Citroen','2CV','Specialton',602,21,39.0,4,585,5750,,115,0,28.64862971
+'Citroen','CXBerlines','20RE',1995,77,163.0,5,1235,5500,12.1,177,0,23.97361105
+'Citroen','Visa','GTI',1580,76,134.0,5,870,6250,9.1,188,1,16.14140854
+'Citroen','CXBerlines','25GTITurbo',2500,122,290.0,5,1385,5000,8,220,0,17.95338906

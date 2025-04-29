@@ -1,0 +1,3 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Jaguar','Serie3','X163.4',3442,129,255.0,5,1770,5250,9.8,188,0,23.50486548
+'Jaguar','Serie3','XJSV12Cupe',5345,217,432.0,4,1755,5500,7.6,241,1,14.35729005

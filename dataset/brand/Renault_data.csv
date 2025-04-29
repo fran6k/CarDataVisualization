@@ -1,0 +1,6 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Renault','R4','Berlinetl',845,21,56.0,4,695,4500,,115,0,37.04655656
+'Renault','R5','C',956,31,65.0,5,695,5750,19.3,137,0,27.88104718
+'Renault','R25','GTX',2165,90,181.0,5,1285,5250,10.3,195,0,21.78194168
+'Renault','Alpine','V6',2849,118,221.0,4,1140,5750,8,235,1,14.65426754
+'Renault','Alpine','V6Turbo',2458,147,285.0,4,1210,5750,7,250,1,12.03321469

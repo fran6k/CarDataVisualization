@@ -1,0 +1,5 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Fiat','Panda','34',850,25,60.0,5,680,5250,32.3,125,0,32.84695632
+'Fiat','Regata','70C',1301,50,100.0,5,890,5700,13.5,155,0,23.90896763
+'Fiat','Ritmo','105TC',1585,77,133.0,5,905,6100,9.5,180,1,16.58580932
+'Fiat','Uno','Turbo',1301,77,147.0,5,845,5750,8.3,200,1,14.74031639

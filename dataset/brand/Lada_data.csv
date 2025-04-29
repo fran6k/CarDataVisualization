@@ -1,0 +1,3 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Lada','1200','Economyn',1198,44,87.0,5,970,5600,,140,0,29.0071299
+'Lada','2105','GL',1452,55,106.0,5,1030,5600,,148,0,25.85459189

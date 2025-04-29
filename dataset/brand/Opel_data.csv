@@ -1,0 +1,5 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Opel','Ascona2','LS1.6D',1598,41,96.0,5,1015,4600,21,143,0,35.00643433
+'Opel','Record','LSGLGLS3TD',2260,63,189.0,5,1245,4200,15,168,0,30.47385588
+'Opel','Corsa2','GLS1.3SB',1297,51,101.0,5,805,5800,13,163,0,21.18518183
+'Opel','Manta','GS1',1979,81,162.0,5,1065,5400,10,192,0,19.61315836

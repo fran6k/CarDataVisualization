@@ -1,0 +1,4 @@
+brand,type,model,cubic_capacity,max_power,max_torque,seats,weight,max_engine_speed,seconds_to_100,top_speed,sports_car,tau
+'Porsche','924','S',2479,110,195.0,4,1190,5800,8.5,215,1,15.84862421
+'Porsche','944','B',2479,116,205.0,4,1210,5800,8.4,220,1,15.2814538
+'Porsche','911Carrera','Turbo',3299,211,430.0,4,1335,5500,5.4,260,1,9.955487907
